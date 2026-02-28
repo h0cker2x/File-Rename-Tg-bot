@@ -26,7 +26,7 @@ if not BOT_TOKEN:
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Channel username (apna channel username daalein)
-CHANNEL_USERNAME = '@YOUR_CHANNEL_USERNAME'  # Change this!
+CHANNEL_USERNAME = '@dewanshworld0'  # Change this!
 
 # Store user data
 user_states = {}
